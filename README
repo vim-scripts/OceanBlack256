@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1844
+
+This color scheme based on Chris Vertonghens Ocean Black color scheme. It is basically a conversion using dither.pl a Perl script I wrote to convert schemes to 256 xterm. 
+
+See the link bellow for some screen shots of what it looks like with Vim script, Java and C++ as well as the Perl source code for dither.pl.
+
+http://juan.axisym3.net/vim-color-schemes/#oceanblack256 
+
+When sending questions or comments please keep in mind that this theme will not work on 8/16 color terminals and I have not tested it in 88 color terminals. Also I am not in any way a unix/linux expert and had to endure many headaches recompiling Vim and messing with TERMCap settings trying to get the 256 term to work 
